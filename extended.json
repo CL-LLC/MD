@@ -24,25 +24,19 @@
               "server": "Network of 4 8GB servers, located in 3 different cities in Europe. Maintained from South FL, USA and Bogotá, Colombia ",
               "company": ""
           },
-          "rss": ""
-    },
-      "my-pool-ids": {
+          "my-pool-ids": {
           "0": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
           "1": ""
-      },
-      "when-satured-then-recommend": {
+          },
+          "when-satured-then-recommend": {
           "0": "",
           "1": ""
-      },
-      "telegram-admin-handle": {
-          "0": ""
-      },
-      {
-               "itn": 
-               {
-                        "owner": "ed25519_pk1uu4jkng2tpaatk2k4yffsaxf9r0yx0uzgdjls87v9jz59qgczsgs775ah5",
-                        "witness": "ed25519_sig1nxt3h85exe8jneq0vjdm2pk89kfgvncj5ar40psc8z0q6rqxu6uc8xx9v6tdkh97llf0wc8y2cvcazks9atana075ws82qcwvltjvpcjd3676"
-               }
-      }
-    }
+          },
+          "telegram-admin-handle": {
+          "0": ""        
+          },
+          "itn":   {
+          "owner": "ed25519_pk1uu4jkng2tpaatk2k4yffsaxf9r0yx0uzgdjls87v9jz59qgczsgs775ah5",
+          "witness": "ed25519_sig1nxt3h85exe8jneq0vjdm2pk89kfgvncj5ar40psc8z0q6rqxu6uc8xx9v6tdkh97llf0wc8y2cvcazks9atana075ws82qcwvltjvpcjd3676"
+          }
 }
