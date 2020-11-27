@@ -49,11 +49,7 @@
                 "name": "relay2.cardanolatino.com",
                 "type": "relay",
                 "key": ""
-            },
-          {
-            "metaextended": {
-                "03880145048a2d869fcfb480ff1a2d9b"
-            }}
+            }
         }
     }
 }
