@@ -22,12 +22,12 @@
           },
           "about": {
               "me": "",
-              "server": "Network of 4 8GB servers, located in 3 different cities in Europe. Maintained from South FL, USA and Bogotá, Colombia ",
+              "server": "Network of 4 servers, 3 with 16GB  and 1 with 32GB , located in 4 different cities in Europe and USA. Maintained from South FL, USA and Bogotá, Colombia ",
               "company": ""
           },
           "my-pool-ids": {
           "0": "e8e00995c7f3820fedf01e75a443c56e20f96ddcf9168b662ce2fdcd",
-          "1": ""
+          "1": "022b8984468ce027002518bb37100cfda5e237a63bb50576db81c7c4"
           },
           "when-satured-then-recommend": {
           "0": "",
